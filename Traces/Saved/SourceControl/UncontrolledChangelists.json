@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/c1208951/Documents/Unreal Projects/Traces/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/c1208951/Documents/Unreal Projects/Traces/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/0S/LGLCAV9YXFQLMNTPIFFW6X.uasset",
-				"C:/Users/c1208951/Documents/Unreal Projects/Traces/Content/Blueprints/BP_Tracers_1.uasset"
+				"C:/Users/c1208951/Documents/Unreal Projects/Traces/Content/Blueprints/BP_Tracers_1.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/Traces/Content/Blueprints/BP_FirstPersonChar.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/Traces/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
